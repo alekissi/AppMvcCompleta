@@ -1,0 +1,12 @@
+D:\Desktop\Projetos\AppMvcCompleta\src\DevIO.Busines\bin\Debug\net6.0\DevIO.Busines.deps.json
+D:\Desktop\Projetos\AppMvcCompleta\src\DevIO.Busines\bin\Debug\net6.0\DevIO.Busines.dll
+D:\Desktop\Projetos\AppMvcCompleta\src\DevIO.Busines\bin\Debug\net6.0\DevIO.Busines.pdb
+D:\Desktop\Projetos\AppMvcCompleta\src\DevIO.Busines\obj\Debug\net6.0\DevIO.Busines.csproj.AssemblyReference.cache
+D:\Desktop\Projetos\AppMvcCompleta\src\DevIO.Busines\obj\Debug\net6.0\DevIO.Busines.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Projetos\AppMvcCompleta\src\DevIO.Busines\obj\Debug\net6.0\DevIO.Busines.AssemblyInfoInputs.cache
+D:\Desktop\Projetos\AppMvcCompleta\src\DevIO.Busines\obj\Debug\net6.0\DevIO.Busines.AssemblyInfo.cs
+D:\Desktop\Projetos\AppMvcCompleta\src\DevIO.Busines\obj\Debug\net6.0\DevIO.Busines.csproj.CoreCompileInputs.cache
+D:\Desktop\Projetos\AppMvcCompleta\src\DevIO.Busines\obj\Debug\net6.0\DevIO.Busines.dll
+D:\Desktop\Projetos\AppMvcCompleta\src\DevIO.Busines\obj\Debug\net6.0\refint\DevIO.Busines.dll
+D:\Desktop\Projetos\AppMvcCompleta\src\DevIO.Busines\obj\Debug\net6.0\DevIO.Busines.pdb
+D:\Desktop\Projetos\AppMvcCompleta\src\DevIO.Busines\obj\Debug\net6.0\ref\DevIO.Busines.dll

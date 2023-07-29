@@ -1,0 +1,17 @@
+D:\Desktop\Projetos\AppMvcCompleta\src\DevIO.Data\bin\Debug\net6.0\DevIO.Data.deps.json
+D:\Desktop\Projetos\AppMvcCompleta\src\DevIO.Data\bin\Debug\net6.0\DevIO.Data.runtimeconfig.json
+D:\Desktop\Projetos\AppMvcCompleta\src\DevIO.Data\bin\Debug\net6.0\DevIO.Data.dll
+D:\Desktop\Projetos\AppMvcCompleta\src\DevIO.Data\bin\Debug\net6.0\DevIO.Data.pdb
+D:\Desktop\Projetos\AppMvcCompleta\src\DevIO.Data\bin\Debug\net6.0\DevIO.Busines.dll
+D:\Desktop\Projetos\AppMvcCompleta\src\DevIO.Data\bin\Debug\net6.0\DevIO.Busines.pdb
+D:\Desktop\Projetos\AppMvcCompleta\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.csproj.AssemblyReference.cache
+D:\Desktop\Projetos\AppMvcCompleta\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Projetos\AppMvcCompleta\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.AssemblyInfoInputs.cache
+D:\Desktop\Projetos\AppMvcCompleta\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.AssemblyInfo.cs
+D:\Desktop\Projetos\AppMvcCompleta\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.csproj.CoreCompileInputs.cache
+D:\Desktop\Projetos\AppMvcCompleta\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.csproj.CopyComplete
+D:\Desktop\Projetos\AppMvcCompleta\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.dll
+D:\Desktop\Projetos\AppMvcCompleta\src\DevIO.Data\obj\Debug\net6.0\refint\DevIO.Data.dll
+D:\Desktop\Projetos\AppMvcCompleta\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.pdb
+D:\Desktop\Projetos\AppMvcCompleta\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.genruntimeconfig.cache
+D:\Desktop\Projetos\AppMvcCompleta\src\DevIO.Data\obj\Debug\net6.0\ref\DevIO.Data.dll
