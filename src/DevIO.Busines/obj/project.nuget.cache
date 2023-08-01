@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "/45zghJfYnZu7efEM1/1PgUxSVfY/OLKDQ+12tRfVpGihR6KAkMWO2D+by6U3hhWfsWT7kiH9jC7lKopNntLkA==",
+  "dgSpecHash": "aoxW2cAxKRUeQdeYSc92JoXC9B7bG9mu+HlyHUe8GgsDkuDN8CdiS/yVUTj/xmKtkX1ApZqE6NXIIXEaAClaDg==",
   "success": true,
   "projectFilePath": "D:\\Desktop\\Projetos\\AppMvcCompleta\\src\\DevIO.Busines\\DevIO.Busines.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\aleki\\.nuget\\packages\\fluentvalidation\\11.6.0\\fluentvalidation.11.6.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "fpluRsKY57geivIcc6Qs/APOK2ryiNFspSt2AfC8j5dpERbQ79cXKY8E0NJZbqxWzAeIM5ziX+YI5VM0t4ndaw==",
+  "dgSpecHash": "xyDuCnNDnQ0Xh6EQb9eD28J0l0VXSoRfHLZv3DgaVydGZkp/LZEVzcOSX74CPUQ88iJBOGYCz8wl+D7MauLj6w==",
   "success": true,
   "projectFilePath": "D:\\Desktop\\Projetos\\AppMvcCompleta\\src\\DevIO.Data\\DevIO.Data.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\aleki\\.nuget\\packages\\fluentvalidation\\11.6.0\\fluentvalidation.11.6.0.nupkg.sha512",
     "C:\\Users\\aleki\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\aleki\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
