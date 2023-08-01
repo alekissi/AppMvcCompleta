@@ -260,3 +260,4 @@ D:\Desktop\Projetos\AppMvcCompleta\src\DevIO.App\bin\Debug\net6.0\runtimes\win\l
 D:\Desktop\Projetos\AppMvcCompleta\src\DevIO.App\bin\Debug\net6.0\libman.json
 D:\Desktop\Projetos\AppMvcCompleta\src\DevIO.App\bin\Debug\net6.0\appsettings.Production.json
 D:\Desktop\Projetos\AppMvcCompleta\src\DevIO.App\bin\Debug\net6.0\appsettings.Staging.json
+D:\Desktop\Projetos\AppMvcCompleta\src\DevIO.App\bin\Debug\net6.0\FluentValidation.dll

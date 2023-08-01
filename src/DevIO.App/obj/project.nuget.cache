@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "7KAJsJDmtRC1j44X72nLehUQKTzO4mT/NCQTjKOwlvRuf+pMAkauKWQW0GVxdY3b8QVWnVXpLg2ey+KX5FiUig==",
+  "dgSpecHash": "Tl7yTHimRSVT3vFx3jlvBKVkK9b46Pz3yv03KS7x+0YaM5PotRF7P7+8cwdWtzOUY2AGGhzfeluc7WpC7ej5Jw==",
   "success": true,
   "projectFilePath": "D:\\Desktop\\Projetos\\AppMvcCompleta\\src\\DevIO.App\\DevIO.App.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aleki\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\aleki\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "C:\\Users\\aleki\\.nuget\\packages\\fluentvalidation\\11.6.0\\fluentvalidation.11.6.0.nupkg.sha512",
     "C:\\Users\\aleki\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\aleki\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\aleki\\.nuget\\packages\\humanizer.core.af\\2.14.1\\humanizer.core.af.2.14.1.nupkg.sha512",
