@@ -5,7 +5,7 @@ namespace DevIO.App.Configurations
 {
     public static class GlobalizationConfig
     {
-        public static IApplicationBuilder UseGlocalizationConfig(this IApplicationBuilder app)
+        public static IApplicationBuilder UseGlobalizationConfig(this IApplicationBuilder app)
         {
             var defaultCulture = new CultureInfo("pt-BR");
             var localizationOptions = new RequestLocalizationOptions
